@@ -3,7 +3,7 @@ My name is Farhandika and i am software engineer @Bareksa
 - 🔭 I’m currently working on Bareksa IOS App
 - 🌱 I’m currently learning Java,Kotlin,Dart,Objective-C,GoLang
 - 💬 Ask me about IOS Development
-- ⚡ Fun fact: I sleep alot
+- ⚡ Fun fact: I sleep alot and i have no idea why my most popular language is python (i'm a strong typed languages fan #1)
 - 🤔 Stacks : Swift, ObjectiveC, Python, Typescript, JavaScript, UIKit, SwiftUI, ReactJS, Django, Spring Boot, TextureKit
 
 <!--
