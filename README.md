@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# farhandika
-Personal repository
+# Tech stacks
+The staks listed below does not include organizational pushes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fdika24)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=confusionhill)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fdika24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=confusionhill)](https://github.com/anuraghazra/github-readme-stats)
