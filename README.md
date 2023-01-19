@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 # Tech stacks
-The staks listed below does not include organizational pushes
+The stacks listed below does not include organizational pushes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=confusionhill)](https://github.com/anuraghazra/github-readme-stats)
 
