@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Farhandika and i am software engineer @Bareksa
-- 🔭 I’m currently working on Bareksa Super App
-- 💬 Ask me about IOS Development
+My name is Farhandika and i am software engineer @Tokopedia
+- 🔭 Currently unemployed
+- 💬 Ask me about Software Engineering
 - ⚡ Fun fact    : I sleep alot and i have no idea why my most popular language is python (i'm a strong typed languages fan #1)
 - 🤔 Languages  : Swift, ObjectiveC, Python, Haskell, C/C++, Java, Kotlin, Javascript, Typescript, Elixir, Go, Dart
 - 🌱 Stacks      : UIKit, SwiftUI, TextureKit, Hapi.JS, NestJS, NextJS, Phoenix, SpringBoot, Flutter, React
