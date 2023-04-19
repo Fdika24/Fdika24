@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Farhandika and i am software engineer student @ITB 
-- 🔭 Currently baking a world class ecommerce system @Tokopedia
+- 🔭 Happly marries swift and cheat with go
 - 💬 Ask me about Software Engineering
 - ⚡ Fun fact    : I sleep alot and i have no idea why my most popular language is python (i'm a strong typed languages fan #1)
 - 🤔 Languages  : Swift, ObjectiveC, Python, Haskell, C/C++, Java, Kotlin, Javascript, Typescript, Elixir, Go, Dart
