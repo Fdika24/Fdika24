@@ -26,5 +26,5 @@ The stacks listed below does not include organizational pushes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=confusionhill)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=confusionhill&hide=python,html,cython&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=confusionhill&hide=python,html,cython,fortran,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
