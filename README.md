@@ -1,30 +1,9 @@
-### Hi there 👋
-My name is Farhandika and i am software engineer student @ITB 
-- 🔭 Happly marries swift and cheat with go
-- 💬 Ask me about Software Engineering
-- ⚡ Fun fact    : I sleep alot and i have no idea why my most popular language is python (i'm a strong typed languages fan #1)
-- 🤔 Languages  : Swift, ObjectiveC, Python, Haskell, C/C++, Java, Kotlin, Javascript, Typescript, Elixir, Go, Dart
-- 🌱 Stacks      : UIKit, SwiftUI, TextureKit, Hapi.JS, NestJS, NextJS, Phoenix, Spring Boot, Flutter, React, Gin, Gorm, Echo
+### Hallo
+My name is Dika and I am a casual coder. My teck stacks are 
 
-<!--
-**Fdika24/Fdika24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Go, Swift, Objective-C, C/C++, Java, Kotlin, Dart, TS/JS, Haskell, Python
+2. Gin, Echo, Fiber, UIKit, SwiftUI, Spring Boot, Flutter, FastAPI
+3. PostgreSQL, MySQL, Redis, Elastic Search
+4. NSQ, Kafka, RabbitMQ
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Tech stacks
-The stacks listed below does not include organizational pushes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=confusionhill)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=confusionhill&hide=python,html,cython,fortran,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+I usually dont update that much on GitHub, so follow me on LinkedIn https://www.linkedin.com/in/fdikazmg/
