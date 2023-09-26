@@ -6,4 +6,4 @@ My name is Dika and I am a casual coder. My tech stacks are
 3. PostgreSQL, MySQL, Redis, Elastic Search
 4. NSQ, Kafka, RabbitMQ
 
-Not active in GitHub, follow me on LinkedIn instead https://www.linkedin.com/in/fdikazmg/
+Not active on GitHub, follow me on LinkedIn instead https://www.linkedin.com/in/fdikazmg/
