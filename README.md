@@ -1,6 +1,7 @@
 ### Hallo
-My name is Dika and I am a casual coder. My tech stacks are 
+A casual coder working on software that humanizes humans.
 
+My tech stacks are :
 1. Go, Swift, Objective-C, C/C++, Java, Kotlin, Dart, TS/JS, Haskell, Python
 2. Gin, Echo, Fiber, UIKit, SwiftUI, Spring Boot, Flutter, FastAPI
 3. PostgreSQL, MySQL, Redis, Elastic Search
