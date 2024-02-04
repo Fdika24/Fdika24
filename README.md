@@ -6,5 +6,8 @@ My tech stacks are :
 2. Gin, Echo, Fiber, UIKit, SwiftUI, Spring Boot, Flutter, FastAPI
 3. PostgreSQL, MySQL, Redis, Elastic Search
 4. NSQ, Kafka, RabbitMQ
+5. Osiris, Charizard, Flexi
+
+Tell me which one are fakes and which one isnt
 
 Not active on GitHub, follow me on LinkedIn instead https://www.linkedin.com/in/fdikazmg/
