@@ -2,7 +2,7 @@
 A casual coder trying to humanize humans.
 
 My tech stacks are :
-1. Go, Swift, Objective-C, C/C++, Java, Kotlin, Dart, TS/JS, Haskell, Python
+1. Go, Swift, Objective-C, C/C++, Java, Kotlin, Dart, Typescript, Haskell, Python
 2. Gin, Echo, Fiber, UIKit, SwiftUI, Spring Boot, Flutter, FastAPI
 3. PostgreSQL, MySQL, Redis, Elastic Search, MongoDB
 4. NSQ, Kafka, RabbitMQ
