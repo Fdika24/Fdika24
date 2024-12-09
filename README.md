@@ -1,5 +1,5 @@
 ### Hallo
-A casual coder trying to humanize humans.
+A platform engineer trying to humanize product engineering workload
 
 My tech stacks are :
 1. Go, Swift, Objective-C, C/C++, Java, Kotlin, Dart, Typescript, Haskell, Python
